@@ -1,0 +1,37 @@
+[
+  {
+    "dataset": "Moons",
+    "modelo": "Spectral",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Circle",
+    "modelo": "Spectral",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Iris",
+    "modelo": "Spectral vecinos=3",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Moons",
+    "modelo": "Spectral vecinos=3",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Moons",
+    "modelo": "Spectral vecinos=12",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Circle",
+    "modelo": "Spectral vecinos=3",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  },
+  {
+    "dataset": "Circle",
+    "modelo": "Spectral vecinos=12",
+    "aviso": "Graph is not fully connected, spectral embedding may not work as expected."
+  }
+]
